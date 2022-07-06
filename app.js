@@ -5,6 +5,6 @@ let friends="0";
 
 console.log(username);
 console.log(color);
+console.log(age)
+console.log(friends)
 
-let x =3+4;
-let y =7+1;
