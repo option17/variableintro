@@ -8,3 +8,8 @@ console.log(color);
 console.log(age)
 console.log(friends)
 
+let user_points="17"
+
+if (user_points >=75){
+    console.log("Congratulations");
+}
