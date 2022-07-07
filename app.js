@@ -27,12 +27,15 @@ if (old =5){
 
 // Knowledge Check part 2
 
-let user_points="91"
+let user_points="17"
 let is_member= true
 
 if (user_points >=90&&is_member){
 console.log("User is better than most at the game")}
 
+else if (user_points < 90 || !is_member ){
+    console.log("Boy you better leave");
+}
 
 
 
