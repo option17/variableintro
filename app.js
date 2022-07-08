@@ -57,3 +57,15 @@ let Usernameage= `Hello ${Username} you are ${age}`;
 
 console.log(Usernameage)
 
+max_volume=245;
+current_volume=30;
+
+console.log(max_volume/current_volume);
+console.log(max_volume/current_volume*100);
+
+// Another knowledge check
+
+let users=[`Dawn`,`Tanya`,`Bob`,`Marshall`,`Josh`];
+let ages=[47, 43, 49, 45, 23];
+
+console.log=(users)
