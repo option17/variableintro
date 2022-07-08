@@ -11,17 +11,17 @@ console.log(bestfriends)
 // my practice of what we learnt so far.
 
 let myson="Henry"
-let old="6"
+let old=10
 
 console.log(myson);
 console.log(old);
 
 if (old =5){
-    console.log("Way to go my boy!")
+    console.log("Way to go my boy!");
 } else if (old <=5){
-    console.log("Still so cute my boy!")
+    console.log("Still so cute my boy!");
 } if(old >=9){
-    console.log("Slow down my boy!")
+    console.log("Slow down my boy!");
 }
 
 
@@ -48,7 +48,12 @@ if (user_points >=75){
     console.log("Keep going you got this!");
 } 
 
-// **W9A assignment**
+// W9D Debugging Kowledge check
 
-let age="23"
-let is_subscribed="47"
+let Username=`josh`
+let age=29
+
+let Usernameage= `Hello ${Username} you are ${age}`;
+
+console.log(Usernameage)
+
